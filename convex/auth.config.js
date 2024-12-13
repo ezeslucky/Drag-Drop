@@ -1,9 +1,8 @@
-
 export default {
     providers: [
-      {
-        domain: "https://above-alpaca-93.clerk.accounts.dev",
-        applicationID: "convex",
-      },
-    ]
-  };
+        {
+            domain: "https://regular-humpback-73.clerk.accounts.dev",
+            applicationID: "convex",
+        },
+    ],
+};
